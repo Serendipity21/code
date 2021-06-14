@@ -1,0 +1,2 @@
+C:\Users\91787\Desktop\程序\贪吃蛇\Debug\贪吃蛇.exe
+C:\Users\91787\Desktop\程序\贪吃蛇\Debug\贪吃蛇.pdb

@@ -1,0 +1,35 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: zllNFZX7R3Zhnw0VZHzqrGuP7g4=
+SHA1-Digest-Manifest: nmgbYQvxWBl3J6KQlh+HeodyS2Y=
+Created-By: 1.8.0_252 (Oracle Corporation)
+
+Name: AndroidManifest.xml
+SHA1-Digest: +jf92/7SSCF0ovslp/o1yyq9L+c=
+
+Name: res/layout/activity_console.xml
+SHA1-Digest: lnXB6UdHeVgpoxPo+r77Cq8gehM=
+
+Name: res/drawable-nodpi/atari_small_nodpi.png
+SHA1-Digest: jXTgaY0Hxhj8PFoYYxW87Zk34V8=
+
+Name: resources.arsc
+SHA1-Digest: /YWXBQ+GHPIhUUGGZHtBrITxUkg=
+
+Name: res/menu/menu_main.xml
+SHA1-Digest: jRdoAtWt+Yec4bmy6189wfB1ZvE=
+
+Name: lib/armeabi-v7a/libmyutils.so
+SHA1-Digest: +1wAPEauk7jwNUIiFMaeFOsgWmI=
+
+Name: classes.dex
+SHA1-Digest: btLDSdYXGdYruRBDof/4Y9Da6do=
+
+Name: res/drawable/atari_small.png
+SHA1-Digest: lPkzC3Gtu3qxbeeAqk6uljDxzYA=
+
+Name: assets/app.exe
+SHA1-Digest: BjCizm0Oq9134Yyxt/tIhhNszNs=
+
+Name: res/mipmap-xxhdpi/ic_launcher.png
+SHA1-Digest: IoKZr8NcsdKHu8O2ig9us72OlWU=
+

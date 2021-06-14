@@ -1,0 +1,4 @@
+﻿  源.c
+C:\Users\91787\Desktop\程序\实验7内容1\源.c(21): warning C4716: “max”: 必须返回一个值
+C:\Users\91787\Desktop\程序\实验7内容1\源.c(28): warning C4716: “swap”: 必须返回一个值
+  实验7内容1.vcxproj -> C:\Users\91787\Desktop\程序\实验7内容1\Debug\实验7内容1.exe

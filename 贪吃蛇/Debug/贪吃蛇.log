@@ -1,0 +1,5 @@
+﻿  源.c
+C:\Users\91787\Desktop\程序\贪吃蛇\源.c(22,18): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\91787\Desktop\程序\贪吃蛇\源.c(144,11): warning C4013: “getch”未定义；假设外部返回 int
+C:\Users\91787\Desktop\程序\贪吃蛇\源.c(236,12): warning C4013: “kbhit”未定义；假设外部返回 int
+  贪吃蛇.vcxproj -> C:\Users\91787\Desktop\程序\贪吃蛇\Debug\贪吃蛇.exe

@@ -1,0 +1,2 @@
+C:\Users\91787\Desktop\程序\求20阶乘\Debug\求20阶乘.exe
+C:\Users\91787\Desktop\程序\求20阶乘\Debug\求20阶乘.pdb

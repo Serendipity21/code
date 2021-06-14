@@ -1,0 +1,5 @@
+﻿  源.c
+C:\Users\91787\Desktop\程序\实验6内容3\源.c(58,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\91787\Desktop\程序\实验6内容3\源.c(51,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\91787\Desktop\程序\实验6内容3\源.c(66): warning C4716: “max”: 必须返回一个值
+  实验6内容3.vcxproj -> C:\Users\91787\Desktop\程序\实验6内容3\Debug\实验6内容3.exe

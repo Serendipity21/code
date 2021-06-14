@@ -1,0 +1,2 @@
+D:\程序\调试\Debug\调试.exe
+D:\程序\调试\Debug\调试.pdb

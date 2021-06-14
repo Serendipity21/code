@@ -1,0 +1,4 @@
+﻿  源.c
+C:\Users\91787\Desktop\程序\Hello World!\源.c(8,9): warning C4013: “getline”未定义；假设外部返回 int
+源.obj : error LNK2019: 无法解析的外部符号 _getline，函数 _main 中引用了该符号
+C:\Users\91787\Desktop\程序\Hello World!\Debug\Project1.exe : fatal error LNK1120: 1 个无法解析的外部命令

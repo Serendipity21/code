@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_252 (Oracle Corporation)
+
+Name: AndroidManifest.xml
+SHA1-Digest: nIBiXLr/IfpAKPo8ly7XSYMJNng=
+
+Name: res/layout/activity_console.xml
+SHA1-Digest: 5pelhHQ8rjwfPdyRRNg/yBnMhB4=
+
+Name: res/drawable-nodpi/atari_small_nodpi.png
+SHA1-Digest: n2RRWZ2yBjxNCdaQFmp1EC10g5c=
+
+Name: resources.arsc
+SHA1-Digest: V8Lar+j/SCl8JSBjUjYe8djOd0g=
+
+Name: res/menu/menu_main.xml
+SHA1-Digest: e1iBph6y7TgpS67UPH4AhCMxMjE=
+
+Name: lib/armeabi-v7a/libmyutils.so
+SHA1-Digest: pFQOrGpQpDBU1/gJo+uWB3vhmHk=
+
+Name: classes.dex
+SHA1-Digest: JfXGG/wmydd1FN3V7BbCJKnsYao=
+
+Name: res/drawable/atari_small.png
+SHA1-Digest: n2RRWZ2yBjxNCdaQFmp1EC10g5c=
+
+Name: assets/app.exe
+SHA1-Digest: AvKjfjQ6ZQQYFYLZACkchJw7xXU=
+
+Name: res/mipmap-xxhdpi/ic_launcher.png
+SHA1-Digest: 0ikrIAn4/IDzntLP6SIHeSALoBQ=
+

@@ -1,0 +1,5 @@
+﻿  源.c
+C:\Users\91787\Desktop\程序\实验6内容1\源.c(14,6): warning C4101: “b”: 未引用的局部变量
+C:\Users\91787\Desktop\程序\实验6内容1\源.c(14,9): warning C4101: “c”: 未引用的局部变量
+C:\Users\91787\Desktop\程序\实验6内容1\源.c(14,12): warning C4101: “d”: 未引用的局部变量
+  实验6内容1.vcxproj -> C:\Users\91787\Desktop\程序\实验6内容1\Debug\实验6内容1.exe

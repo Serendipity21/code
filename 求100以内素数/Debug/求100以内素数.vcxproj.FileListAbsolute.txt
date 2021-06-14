@@ -1,0 +1,2 @@
+C:\Users\91787\Desktop\程序\求100以内素数\Debug\求100以内素数.exe
+C:\Users\91787\Desktop\程序\求100以内素数\Debug\求100以内素数.pdb

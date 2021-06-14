@@ -1,0 +1,4 @@
+D:\编程\Project1\Debug\Project1.exe
+D:\编程\Project1\Debug\Project1.pdb
+C:\Users\91787\Desktop\程序\Hello World!\Debug\Project1.exe
+C:\Users\91787\Desktop\程序\Hello World!\Debug\Project1.pdb

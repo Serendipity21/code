@@ -1,0 +1,2 @@
+D:\程序\ACM校队选拔\宝物\Debug\宝物.exe
+D:\程序\ACM校队选拔\宝物\Debug\宝物.pdb

@@ -1,0 +1,2 @@
+C:\Users\91787\Desktop\程序\选择法对10个整数排序\Debug\选择法对10个整数排序.exe
+C:\Users\91787\Desktop\程序\选择法对10个整数排序\Debug\选择法对10个整数排序.pdb
